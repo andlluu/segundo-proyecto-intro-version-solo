@@ -1,0 +1,14 @@
+31/05
+Búsqueda y selección de imágenes para los personajes, ingredientes y escenarios. Diseño de la interfaz inicial del juego.
+
+13/06
+Creación y configuración del repositorio del proyecto en GitHub para el control de versiones.
+
+15/06
+Desarrollo de la clase Player. Implementación de los métodos de movimiento e interacción con los objetos del juego.
+
+21/06
+Integración de los distintos archivos y clases del proyecto. Desarrollo del sistema de información del jugador, incluyendo el registro y almacenamiento de puntajes.
+
+23/06
+Reestructuración del juego utilizando una matriz como mapa principal. Implementación del movimiento de personajes dentro de la matriz y creación de las estaciones de obtención de ingredientes.
